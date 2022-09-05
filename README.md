@@ -5,6 +5,9 @@ A collection of existing semantic resources which can be linked to build a Globa
 # rationale
 Currently much information is "published" as monolithic documents. Scholarly publishing is irretrievably broken (cannot be mended), and the PublisherAcademicComplex has crippled the development of the Semantic Web in creating/distributing knowledge. GSKC (aka SemanticObelisk) is a bottom-up low-profile approach to redress this, in the same way as the [BlueObelisk.org](https://blueobelisk.org) in chemistry played an important part in promoting Open Data, Open Source software, and Open Standards. If we promote and coordinate our existing tools and resources we can build an impressive and useful Knowledge Commons . TODAY.
 
+The Blue Obelisk is self-organising and makes nodes and connections organically:
+<img src="https://en.wikipedia.org/wiki/File:BlueoneliskDeps_CCBY2.0.jpg"/> . SGKC grows in the same manner.
+
 # Semantic Knowledge Commons
 [https://en.wikipedia.org/wiki/Knowledge_commons] describes a system where everyone has immediate and equitable access to the creation, dissemination, use and re-use of knowledge. "Semantic" means that machines can understand it and help humans to use it. Immediate benefits are increased discoverability, human- and machine-undersstanding of content, filtering, transformation, re-use, etc. As the Open Definition says "free to use, re-use and redistribute (without permission)".
 
@@ -16,5 +19,24 @@ Or English is not your native language. How is "stubble" related to air pollutio
 https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%B0%E0%A8%BE%E0%A8%B2%E0%A9%80_%E0%A8%B8%E0%A8%BE%E0%A9%9C%E0%A8%A8%E0%A8%BE
 (ਪਰਾਲੀ ਸਾੜਨਾ)  https://www.wikidata.org/wiki/Q17083469
 
+# our architecture
+The basic tasks for semantic documents include:
+* create
+* publish
+* search
+* download
+* analyse
+* filter
+* section and reassemble
+* translate
+* annotate
+* aggregate
+* republish
+
+Our emerging community has resources in many of these
+
 ## creating semantic documents
 Documents in HTML/XML are partially semantic; unfortunately the ubiquitous PDF destroys ALL semantics. We have to build up heuristically, but we've done much of the hard work. So it's possible to download hundreds of PDFs and add semantics to many types of documents.
+
+# Resources
+There are a lot of resources - we start with a few and invite others to join
