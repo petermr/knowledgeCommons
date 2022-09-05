@@ -6,7 +6,7 @@ A collection of existing semantic resources which can be linked to build a Globa
 Currently much information is "published" as monolithic documents. Scholarly publishing is irretrievably broken (cannot be mended), and the PublisherAcademicComplex has crippled the development of the Semantic Web in creating/distributing knowledge. GSKC (aka SemanticObelisk) is a bottom-up low-profile approach to redress this, in the same way as the [BlueObelisk.org](https://blueobelisk.org) in chemistry played an important part in promoting Open Data, Open Source software, and Open Standards. If we promote and coordinate our existing tools and resources we can build an impressive and useful Knowledge Commons . TODAY.
 
 The Blue Obelisk is self-organising and makes nodes and connections organically:
-<img href="https://en.wikipedia.org/wiki/File:BlueoneliskDeps_CCBY2.0.jpg"/> . SGKC grows in the same manner.
+https://en.wikipedia.org/wiki/File:BlueoneliskDeps_CCBY2.0.jpg . SGKC grows in the same manner.
 
 # Semantic Knowledge Commons
 [https://en.wikipedia.org/wiki/Knowledge_commons] describes a system where everyone has immediate and equitable access to the creation, dissemination, use and re-use of knowledge. "Semantic" means that machines can understand it and help humans to use it. Immediate benefits are increased discoverability, human- and machine-undersstanding of content, filtering, transformation, re-use, etc. As the Open Definition says "free to use, re-use and redistribute (without permission)".
