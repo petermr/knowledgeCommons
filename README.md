@@ -14,7 +14,6 @@ Or English is not your native language. How is "stubble" related to air pollutio
 
 [^1]: wikipedia in Punjabi
 https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%B0%E0%A8%BE%E0%A8%B2%E0%A9%80_%E0%A8%B8%E0%A8%BE%E0%A9%9C%E0%A8%A8%E0%A8%BE
-
 (ਪਰਾਲੀ ਸਾੜਨਾ)  https://www.wikidata.org/wiki/Q17083469
 
 ## creating semantic documents
