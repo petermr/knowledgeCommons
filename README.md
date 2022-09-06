@@ -1,6 +1,6 @@
-# semanticObelisk
+# GSKC
 A collection of existing semantic resources which can be linked to build a Global Semantic Knowledge Commons (GSKC).
-"We" is an emerging community dedicated to this.
+At present (2022-09) "We" is a group developing GSKC for Climate Change, and reaching out to other potential nodes. But the approach is generic and we can see an emerging GSKC community.
 
 # rationale
 Currently much information is "published" as monolithic documents. Scholarly publishing is irretrievably broken (cannot be mended), and the PublisherAcademicComplex has crippled the development of the Semantic Web in creating/distributing knowledge. GSKC (aka SemanticObelisk) is a bottom-up low-profile approach to redress this, in the same way as the [BlueObelisk.org](https://blueobelisk.org) in chemistry played an important part in promoting Open Data, Open Source software, and Open Standards. If we promote and coordinate our existing tools and resources we can build an impressive and useful Knowledge Commons . TODAY.
@@ -39,4 +39,43 @@ Our emerging community has resources in many of these
 Documents in HTML/XML are partially semantic; unfortunately the ubiquitous PDF destroys ALL semantics. We have to build up heuristically, but we've done much of the hard work. So it's possible to download hundreds of PDFs and add semantics to many types of documents.
 
 # Resources
-There are a lot of resources - we start with a few and invite others to join
+There are a lot of potential resources - we are starting with those relevant to or project and will contact them to see how to make a semantic connection. No particular order... We'll have a discussion page for each
+
+## Wikidata
+A huge global collection of identifiers in every discipline. A keystone of our project. 
+
+## EuropePubMedCentral
+Millions of open access papers, and now preprints
+
+## biorxiv and medrxiv
+Millions of preprints, mainly in biomedical
+
+## Redalyc 
+
+https://www.redalyc.org/ . Mexico/Latin America. 770K+ open articles. A focus for the Global South
+
+## RINrxiv
+
+Indonesia preprints
+
+## INarxiv
+
+India preprints
+
+## Open Knowledge Maps
+
+Unsupervised classification of the Open Literature
+
+
+## Other links and people
+Sam Moore
+Egon Willighagen
+Chris Hartgerink
+Dasapta Erwin (ID)
+Arianna Bec (MX)
+Ross Mounce
+Daniel Mietchen
+Gita Yadav (IN)
+The Shuttleworth Fellowship community
+Blue Obelisk
+
